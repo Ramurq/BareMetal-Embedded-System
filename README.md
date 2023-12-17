@@ -1,2 +1,2 @@
-# BareMetal-Embedded-System
-Writing Start-up code and Linker script from the scratch for STM-32 ARM-Cortex M4
+# baremetalembedded
+Understanding build procedure and linker script for bare metal embedded systems(ARM Cortex Mx)
